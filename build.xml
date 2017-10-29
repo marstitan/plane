@@ -297,10 +297,12 @@
                 <file name="src/scenes/StartScene.js"/>
                 <file name="src/scenes/GameScene.js"/>
                 <file name="src/scenes/RewardScene.js"/>
+                <file name="src/scenes/InputScene.js"/>
                 <file name="src/model/GameObject.js"/>
                 <file name="src/model/Plane.js"/>
                 <file name="src/model/Bullet.js"/>
                 <file name="src/model/Enemy.js"/>
+                <file name="src/manager/Config.js"/>
                 <file name="src/manager/ObjectPool.js"/>
                 <file name="src/manager/Math.js"/>
                 <file name="src/manager/GameManager.js"/>
